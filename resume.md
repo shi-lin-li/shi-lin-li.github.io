@@ -1,7 +1,8 @@
 ![](images/cartography.jpg)
 # Linli Shi
 shilinli@uw.edu
->A Geographer who seeks to apply GIS techniques and data analysis to make raw data more accessible and solve real-world problems.
+> A Geographer who seeks to apply GIS techniques and data analysis to make raw data more accessible and solve real-world problems.
+---
 ## Experience
 ### Geographical Mapping Support 
 - [Svoboda Diaries Project](https://www.svobodadiariesproject.org/)
